@@ -1,1 +1,1 @@
-<h1>Sistema Barberia Alura</h1>
+<h1>Sistema Juego Alura</h1>
